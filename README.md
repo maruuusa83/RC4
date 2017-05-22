@@ -2,6 +2,10 @@
 
 RC4 stream cipher.
 
+Copyright (c) 2016 Daichi Teruya  
+Released under the MIT license  
+http://opensource.org/licenses/mit-license.php
+
 ## How to use
 Include `rc4.h` and use `marusa::RC4<KEY_SIZE>` class.
 
